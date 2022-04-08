@@ -1,1 +1,1 @@
-This is my REQDME.md file, introducing C programming language
+This is my README.md file, introducing C programming language
