@@ -5,7 +5,7 @@
  * @n: integer for which the times table will be printed
  *
  * Description: prints the times table
- *
+*
  * Return: void
  */
 
@@ -33,7 +33,7 @@ void print_times_table(int n)
 				}
 				else if (product >= 10 && product < 100)
 				{
-			_putchar(',');
+					_putchar(',');
 					_putchar(' ');
 					_putchar(' ');
 					_putchar((product / 10) % 10 + '0');
@@ -51,3 +51,4 @@ void print_times_table(int n)
 			_putchar('\n');
 		}
 	}
+}
