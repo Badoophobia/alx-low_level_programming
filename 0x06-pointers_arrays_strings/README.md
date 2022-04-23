@@ -1,1 +1,1 @@
-This is my README file for pointers, arrays and strings task
+My pointers, arrays and strings task
