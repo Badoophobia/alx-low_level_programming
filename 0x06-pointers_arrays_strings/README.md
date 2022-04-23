@@ -1,1 +1,1 @@
-My pointers, arrays and strings task
+Pointers, Arrays and Strings
